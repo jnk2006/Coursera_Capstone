@@ -1,0 +1,75 @@
+District_N,Name,Neighborhood,Latitude,Longitude
+District 1a & 1b,French Quarter/CBD,French Quarter,29.9596,-90.063
+District 1a & 1b,French Quarter/CBD,Central Business District,29.948,-90.0723
+District 2,Central City/Garden District Area,Central City,29.9422,-90.0863
+District 2,Central City/Garden District Area,East Riverside,29.9205349,-90.0898632
+District 2,Central City/Garden District Area,Garden District,29.9292,-90.0829
+District 2,Central City/Garden District Area,Irish Channel,29.9205,-90.0828
+District 2,Central City/Garden District Area,Lower Garden District,29.9364,-90.0676
+District 2,Central City/Garden District Area,Milan,29.9306518,-90.0957057
+District 2,Central City/Garden District Area,St. Thomas Development,29.926331,-90.0688373
+District 2,Central City/Garden District Area,Touro,29.9234,-90.0945
+District 2,Central City/Garden District Area,Faubourg Lafayette,29.9407,-90.0781
+District 2,Central City/Garden District Area,Faubourg Liaudais,29.9349963,-90.0851898
+District 3,Uptown/Carrollton Area,Audubon,29.9306,-90.1238
+District 3,Uptown/Carrollton Area,Black Pearl,29.9349556,-90.1342888
+District 3,Uptown/Carrollton Area,Broadmoor,29.9479932,-90.1050557
+District 3,Uptown/Carrollton Area,Dixon,29.9725,-90.1132
+District 3,Uptown/Carrollton Area,East Carrollton,29.946528,-90.1272708
+District 3,Uptown/Carrollton Area,Freret,29.9378725,-90.1062246
+District 3,Uptown/Carrollton Area,Hollygrove,29.9653233,-90.1237623
+District 3,Uptown/Carrollton Area,Leonidas,29.9537549,-90.1284404
+District 3,Uptown/Carrollton Area,Fontainebleau,29.9523232,-90.1132387
+District 3,Uptown/Carrollton Area,Uptown,29.9393,-90.1214
+District 3,Uptown/Carrollton Area,West Riverside,29.9147312,-90.115577
+District 4,Mid-City Area,Bayou St. John,29.9754713,-90.0851898
+District 4,Mid-City Area,B. W. Cooper,29.9523,-90.0922
+District 4,Mid-City Area,Fairgrounds,29.9884,-90.0816
+District 4,Mid-City Area,Faubourg St. John,,
+District 4,Mid-City Area,Gert Town,29.9626822,-90.1090768
+District 4,Mid-City Area,Iberville Development,29.9603013,-90.0740927
+District 4,Mid-City Area,Mid-City,29.9711,-90.1003
+District 4,Mid-City Area,Parkview,29.9882017,-90.0864226
+District 4,Mid-City Area,Seventh Ward,29.9781096,-90.0671475
+District 4,Mid-City Area,St. Bernard Projects,29.996944,-90.079444
+District 4,Mid-City Area,Treme,29.9690775,-90.0732223
+District 4,Mid-City Area,Tulane/Gravier,29.9595,-90.0863
+District 5,Lakeview Area,City Park,30,-90.0957
+District 5,Lakeview Area,Lakeshore/Late Vista,30.0231515,-90.0957057
+District 5,Lakeview Area,Lakeview,30.0029136,-90.1073935
+District 5,Lakeview Area,Lakewood,29.9902891,-90.1204281
+District 5,Lakeview Area,Navarre,29.9890111,-90.1096777
+District 5,Lakeview Area,West End,30.0115735,-90.1190848
+District 6,Gentilly Area,Dillard,30.000833,-90.068056
+District 6,Gentilly Area,Filmore,30.011389,-90.077778
+District 6,Gentilly Area,Gentilly Terrace,30.0029472,-90.0513246
+District 6,Gentilly Area,Gentilly Woods,30.0116224,-90.0349866
+District 6,Gentilly Area,Lake Terrace/Lake Oaks,30.0289502,-90.0629989
+District 6,Gentilly Area,Milneburg,30.0173958,-90.0536592
+District 6,Gentilly Area,Pontchartain Park,30.0231802,-90.0396539
+District 6,Gentilly Area,St. Anthony,30.0173894,-90.0676696
+District 7,Bywater Area,Bywater,29.9633,-90.0403
+District 7,Bywater Area,Desire Area,30.0000624,-90.0349866
+District 7,Bywater Area,Desire Projects,29.989167,-90.031944
+District 7,Bywater Area,Faubourg Marigny,29.9639,-90.0572
+District 7,Bywater Area,Florida Area,29.9813,-90.0385
+District 7,Bywater Area,Florida Projects,29.981944,-90.032778
+District 7,Bywater Area,St. Claude,29.971667,-90.038889
+District 7,Bywater Area,St. Roch,29.985,-90.053611
+District 8,Lower Ninth Ward Area,Holy Cross,29.958333,-90.017778
+District 8,Lower Ninth Ward Area,Lower Ninth Ward,29.970278,-90.012778
+District 9,Eastern New Orleans Area,Little Woods,30.0463002,-89.9836769
+District 9,Eastern New Orleans Area,Pines Village,30.017405,-90.0209881
+District 9,Eastern New Orleans Area,Plum Orchard,30.0174067,-90.0023314
+District 9,Eastern New Orleans Area,West Lake Forest,30.0289642,-89.9836769
+District 10,Village de L'Est,Village de L'Est,30.078038,-89.897282
+District 10,Village de L'Est,Michoud,30.0302,-89.9259
+District 11,Venetion Isles/Late Catherine,Venetian Isles,30.0087,-89.9347
+District 11,Venetion Isles/Late Catherine,Lake Catherine,30.0894,-89.7567
+District 12,Algiers Area,Algiers Point,29.9523,-90.0501
+District 12,Algiers Area,Aurora,29.9220112,-89.995337
+District 12,Algiers Area,Behrman,29.935,-90.027
+District 12,Algiers Area,McDonogh,29.9257,-90.0461
+District 12,Algiers Area,Brechtel Park,29.9076,-90.0117
+District 12,Algiers Area,New Aurora,29.9104297,-89.9393363
+District 13,English Turn Area,English Turn,29.9075765,-89.9511917

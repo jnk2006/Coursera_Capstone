@@ -1,0 +1,168 @@
+neighborhood,name,categories,address,lat,lng,id,rating,number of likes
+French Quarter,Pere Antoine Restaurant,Cajun / Creole Restaurant,741 Royal St,29.958818690347677,-90.06405940275687,4aeb3cf3f964a520f7bf21e3,6.3,130
+French Quarter,French Market Restaurant & Bar,Seafood Restaurant,1001 Decatur St,29.95933,-90.06078,4ad4c050f964a5208ef420e3,7.7,156
+French Quarter,Mother's Restaurant,Cajun / Creole Restaurant,401 Poydras St,29.948835376889075,-90.06690194002057,4aed9d64f964a520dbcd21e3,8.0,1077
+French Quarter,Antoine's Restaurant,Cajun / Creole Restaurant,713 Saint Louis St,29.956724,-90.066409,4ad4c04df964a5206ff320e3,8.0,219
+French Quarter,The Old Coffeepot Restaurant,Breakfast Spot,714 Saint Peter St,29.958184553268502,-90.06522205059179,4ad4c04df964a52061f320e3,6.4,82
+French Quarter,Felix's Restaurant & Oyster Bar,Seafood Restaurant,739 Iberville St,29.954659,-90.068949,4ad4c050f964a520a6f420e3,8.4,478
+French Quarter,Molly's Irish Pub & Restaurant,Pub,732 Toulouse St,29.95765560618505,-90.06617460283441,4adcf7ccf964a520076321e3,7.2,33
+French Quarter,Deanie's Seafood Restaurant in the French Quarter,American Restaurant,841 Iberville St.,29.955319,-90.069813,4ad4c04cf964a520f1f220e3,7.9,394
+French Quarter,The Jimani Lounge & Restaurant,Bar,141 Chartres St,29.953484987154013,-90.06741533330678,4ad4c04cf964a5202bf320e3,7.4,78
+French Quarter,Broussard's Restaurant & Courtyard,Cajun / Creole Restaurant,819 Conti St,29.956802052694883,-90.0680329492195,4ad4c050f964a5209ef420e3,8.8,87
+French Quarter,Franks Restaurant,Italian Restaurant,933 Decatur St,29.95894506578994,-90.06082920129727,4aeb20c2f964a520b9be21e3,5.7,29
+French Quarter,Golden Wall Chinese Restaurant,Chinese Restaurant,914 Canal St,29.954494578591227,-90.07122263242722,4b72f287f964a52072912de3,6.8,9
+French Quarter,Jung Lobby Restaurant,New American Restaurant,1500 Canal St,29.957263,-90.075654,5c492ce642d8c2002cb527d6,6.8,1
+French Quarter,Mulate's Cajun Restaurant,Cajun / Creole Restaurant,201 Julia St,29.944501653385537,-90.06487096497426,4ad4c04ff964a52011f420e3,7.4,247
+French Quarter,Creole House Restaurant & Oyster Bar,Cajun / Creole Restaurant,509 Canal St,29.952184869835747,-90.06734586603254,56788640498e1e6e2f1d0da3,8.6,115
+French Quarter,P&G Restaurant & Bar,Sandwich Place,345 Baronne St,29.951309528802273,-90.07282693441915,4c0d22be7189c928a886d6b6,7.7,20
+French Quarter,Tujague's Restaurant,Cajun / Creole Restaurant,823 Decatur St,29.958081081122682,-90.06171762943268,4ad4c04af964a520b0f220e3,8.4,171
+French Quarter,House of Blues Restaurant & Bar,Music Venue,225 Decatur St,29.953241077479607,-90.06621507639395,41326e00f964a5204b191fe3,9.3,1407
+French Quarter,Deja Vu Restaurant And Bar,American Restaurant,400 Dauphine St,29.956930309455107,-90.06865431677606,4ad4c04df964a5203cf320e3,7.8,121
+French Quarter,Restaurant R'evolution,Cajun / Creole Restaurant,777 Bienville St,29.955325834214165,-90.06816817793825,4faadffbe4b09ddd00780024,9.1,227
+French Quarter,Coterie Restaurant & Oyster Bar,Seafood Restaurant,135 Decatur St,29.952789815406675,-90.06644113259836,5a2f3f39ff19025963762d37,8.3,21
+French Quarter,Dooky Chase Restaurant,Southern / Soul Food Restaurant,2301 Orleans Ave,29.968067915347156,-90.07842531821845,4b3e1975f964a520629825e3,8.4,132
+French Quarter,Katie's Restaurant & Bar,American Restaurant,3701 Iberville St,29.973001398727252,-90.09595618142973,4b915655f964a5203bb433e3,9.0,227
+French Quarter,Holiday Inn Streetcar Restaurant,American Restaurant,330 Loyola Ave,29.95308907666139,-90.07505823265296,5391e491498e574c69abe990,9.0,0
+French Quarter,Wolfe's Restaurant,American Restaurant,859 Convention Center Blvd,29.94331158216283,-90.06561494840007,4e9ef2b46da161b08dc5143d,9.0,2
+French Quarter,River 127 Restaurant,American Restaurant,100 Iberville St,29.95136069855958,-90.06470850201428,4c6c315b6af58cfa7e198617,9.0,2
+French Quarter,Arnaud's Restaurant,Cajun / Creole Restaurant,813 Bienville St,29.955626558930213,-90.06865502618834,4ad4c050f964a5209af420e3,8.3,169
+French Quarter,Bar @ Restaurant R'evolution,Bar,777 Bienville St,29.955531623717405,-90.06811139215371,50d0f314e4b02e001d303cd1,7.5,12
+French Quarter,Restaurant August,Cajun / Creole Restaurant,301 Tchoupitoulas St,29.949911296334015,-90.06650031015946,4ad4c04ff964a52038f420e3,8.7,194
+French Quarter,gallier's restaurant,Seafood Restaurant,129 Carondelet St,29.95315890210716,-90.07062769097931,58d32490d772f968a184f871,7.4,11
+Central Business District,Michaul's Live Cajun Music Restaurant,French Restaurant,840 Saint Charles Ave,29.945075974885505,-90.07175918370629,4ad4c04ff964a5200ef420e3,7.4,0
+Central Business District,Please-U Restaurant,Diner,1751 Saint Charles Ave,29.93663506943349,-90.07738651225166,4b686c75f964a520b0772be3,6.4,19
+Central Business District,Cochon Restaurant,Southern / Soul Food Restaurant,930 Tchoupitoulas St,29.942262,-90.067249,52379d4911d223ed0eaf140e,9.1,638
+Central Business District,Gordon Biersch Brewery Restaurant,Brewery,200 Poydras St,29.948039,-90.064942,4ad4c04cf964a520f6f220e3,7.3,171
+Central Business District,Marcello's Restaurant & Wine Bar,Italian Restaurant,715 Saint Charles Ave,29.947142927356346,-90.07135074272134,5352b726498e26a65ef96996,8.5,45
+Central Business District,Bonton restaurant,,,29.94753224162985,-90.07234768603925,4f57b6a7e4b0377eef2459e4,8.5,0
+Central Business District,Hobnobber's Variety Bar & Restaurant,American Restaurant,139 Carondelet St,29.95293551184468,-90.07075209557752,4be3121fcbdbef3bf98660d8,8.5,55
+Central City,Restaurant Depot,Kitchen Supply Store,1111 S. Broad Street,29.954990934291136,-90.09708552981785,4d516bfc9d493704cfadcc39,7.7,41
+Central City,Houston's Restaurant,American Restaurant,1755 Saint Charles Ave,29.936429774691735,-90.07765741541894,4b36b490f964a520023b25e3,8.8,105
+Central City,Mandina's Restaurant,Cajun / Creole Restaurant,3800 Canal St,29.972349532307458,-90.09757977111309,4ac80716f964a52042bb20e3,7.9,149
+Central City,Magnolia Mansion Restaurant,Bed & Breakfast,2127 Prytania St,29.933414469656515,-90.0794690196035,4be0788f4c55b6518472eab7,7.4,8
+Central City,Restaurant Rebirth,Cajun / Creole Restaurant,857 Fulton St,29.94353087917664,-90.06532664579771,562fde41498e5e0d5c004429,8.1,21
+East Riverside,Atchafalaya Restaurant,Cajun / Creole Restaurant,901 Louisiana Ave,29.921236937328025,-90.08785484007807,4ad4c04ff964a52026f420e3,9.0,248
+East Riverside,The Avenue Restaurant And Catering,Italian Restaurant,3300 4th St,29.90687134543647,-90.08639395236969,4ec05113e5e8f77cf5ef6254,9.0,0
+East Riverside,Gattuso's Neighborhood Restaurant & Bar,American Restaurant,435 Huey P Long Ave,29.915143733369337,-90.06379408003784,4b0ddeccf964a520bb5123e3,7.6,36
+East Riverside,LeBlanc's Restaurant & Bar,American Restaurant,136 Lafayette St,29.91882470388927,-90.06334777960954,4da845496a2364c7a34ff78d,7.6,1
+East Riverside,Couvilloni's Restaurant & Catering,Italian Restaurant,2036 Poydras St,29.926031,-90.087776,4bbf81d9b492d13a97c4a260,7.6,0
+East Riverside,El Paso Mexican Restaurant,Mexican Restaurant,,29.904437315035388,-90.05217039858898,4e53e120a8097c30ee84ed8d,7.6,2
+East Riverside,The Living Room Restaurant and Bar,Food,2800 Magazine St,29.92549,-90.083762,4f32aa5719836c91c7edd8fe,7.6,0
+East Riverside,3 Happiness Restaurant,Vietnamese Restaurant,1900 Lafayette St,29.90425868,-90.053117,4c059e7ad3842d7f677abe41,7.5,4
+East Riverside,Commander's Palace,Southern / Soul Food Restaurant,1403 Washington Ave,29.928693323949453,-90.0842778968521,4ad4c050f964a520abf420e3,9.0,793
+East Riverside,Stokehold Restaurant,Restaurant,4124 Tchoupitoulas St,29.9171498076543,-90.09827613830566,5a28c87078782c4ee4e3d3ca,9.0,0
+Garden District,TNT Grocery &Restaurant,Asian Restaurant,,29.925614,-90.073506,53e15980498e76aefbf1f2c7,9.0,1
+Milan,Pascal's Manale Restaurant,Italian Restaurant,1838 Napoleon Ave,29.92939542920853,-90.10275521584276,4ad4c050f964a520a4f420e3,8.0,75
+Milan,Waldos Restaurant and Bar,Food,7130 Freret St,29.940369,-90.124,4f32470b19836c91c7c7d701,8.0,0
+St. Thomas Development,New China Restaurant,Chinese Restaurant,1885 Rousseau St,29.927519613247526,-90.06916805589827,4f7c998fe4b0e215cc9510de,8.0,4
+Touro,Peppers Restaurant,Food,4416 Magazine St,29.920639,-90.102547,4f3247ca19836c91c7c823e8,8.0,0
+Faubourg Lafayette,Lula Restaurant Distillery,Distillery,1532 Saint Charles Ave,29.93829195853699,-90.07572462885514,58a3c72b1d21ba7074a8f342,6.8,25
+Audubon,Phillips Restaurant & Bar,Bar,733 Cherokee St,29.940494265350655,-90.12800189111171,4ad4c04df964a52079f320e3,6.5,19
+Audubon,Mikimoto Japanese Restaurant & Sushi Bar,Japanese Restaurant,3301 S Carrollton Ave,29.962314049646693,-90.11331914673319,4467a3a1f964a52048331fe3,7.7,42
+Audubon,Chappy's Restaurant,Cajun / Creole Restaurant,6106 Magazine St,29.92287147768927,-90.12354991801516,5484a84d498e0381ba34e0b3,7.7,1
+Audubon,Drago's Seafood Restaurant,Seafood Restaurant,3232 N Arnoult Rd,30.008973323317512,-90.16062382899665,4ad4c04ff964a5204af420e3,9.0,182
+Audubon,Liuzza's Restaurant & Bar,Cajun / Creole Restaurant,3636 Bienville St,29.97349935519764,-90.09536493049639,4ad4c04cf964a520ecf220e3,8.0,68
+Audubon,Veracruz Mexican Restaurant,Mexican Restaurant,7537 Maple St,29.941094,-90.12839,4f328b9219836c91c7e24108,8.0,0
+Audubon,Young's Fortune Chinese Restaurant,Chinese Restaurant,2916 Cleary Ave,30.000606248802555,-90.17233755414637,4d150878bb488cfa7e7e9cd4,8.0,4
+Black Pearl,Hana Japanese Restaurant,Sushi Restaurant,8116 Hampson St,29.944148092892352,-90.13393803912336,4ad4c050f964a5205cf420e3,7.4,38
+Black Pearl,la mansion restaurant,Mexican Restaurant,Dublin,29.94512,-90.134032,55f4607f498e2feb2c94c973,6.9,6
+Black Pearl,Brigtsen's Restaurant,Cajun / Creole Restaurant,723 Dante St,29.94563385645202,-90.13464812390188,4ad4c04af964a520b2f220e3,8.9,47
+Broadmoor,Manchu Restaurant,Food,4140 Washington Ave,29.95207,-90.101508,4f434fec19834bc91f55e338,8.9,0
+Broadmoor,Fox Bar & Restaurant,,3801 Washington Ave,29.948853246654394,-90.09910440572408,41326e00f964a52015191fe3,8.9,0
+Broadmoor,Williams Restaurant and Lounge,Food,3100 Toledano St,29.944281,-90.097623,4f3255ae19836c91c7cd9198,8.9,0
+Dixon,Clesi's Restaurant & Catering,Cajun / Creole Restaurant,4323 Bienville Street,29.974574,-90.106595,550f5b01498e2e45686f5abd,8.0,15
+Dixon,Five Happiness Restaurant,Chinese Restaurant,3605 S Carrollton Ave,29.964567867615482,-90.11101889783849,4ad4c04ff964a52018f420e3,8.2,79
+Dixon,Mona's Restaurant,Mediterranean Restaurant,,29.9728892,-90.1099404,4e52f04bd22d7b9b65679ed4,8.2,0
+Dixon,Garces Restaurant,Food,4200 Dhemecourt St,29.971981,-90.107052,4f43edbc19836ed0019147fa,8.2,0
+Dixon,La Finca Home Plate Inn Restaurant,Bar,4033 Tulane Ave,29.968807,-90.10575,4f32bc9e19836c91c7f4f057,8.2,0
+Dixon,Venezia Restaurant,Italian Restaurant,134 N Carrollton Ave,29.97509658498786,-90.09963129230383,4ad4c04df964a5205bf320e3,8.6,42
+East Carrollton,China Orchid Restaurant,Chinese Restaurant,704 S Carrollton Ave,29.944299997845313,-90.133761114808,4ad4c050f964a52085f420e3,6.7,11
+Freret,La Penita Restaurant,Food,4520 Freret St,29.935177,-90.105068,4f320d1019833175d60ba137,6.7,0
+Freret,Latrianas Restaurant and Lounge,Bar,5018 Freret St,29.934908,-90.109164,4f32bc5319836c91c7f4cf00,6.7,0
+Hollygrove,Barrows Restaurant and Bar,Food,2714 Mistletoe St,29.96563,-90.127218,4f3203ce19833175d609db9b,6.7,0
+Hollygrove,Deanie's Seafood Restaurant & Seafood Market,Seafood Restaurant,1713 Lake Ave.,30.01879457968942,-90.12307073520671,4bd21879b221c9b6cee9d6d0,8.2,94
+West Riverside,Luvi Restaurant,Asian Restaurant,5236 Tchoupitoulas St,29.916433,-90.112122,5b00b9ad9ba3e5002c7c8a20,8.2,0
+West Riverside,Upperline Restaurant,Cajun / Creole Restaurant,1413 Upperline St,29.924991828662957,-90.10768739388938,4ad4c04df964a52074f320e3,8.2,41
+Bayou St. John,Gabrielle Restaurant,Cajun / Creole Restaurant,2441 Orleans Ave,29.969140558022012,-90.08008807897568,5a07d22a9deb7d21709857f9,7.7,8
+Bayou St. John,Los Portales Mexican Restaurant,Mexican Restaurant,2201 Elysian Fields Ave,29.979994496126775,-90.05735965479974,4df3d5a614954f21cf2fc533,7.7,1
+Bayou St. John,Tsai Pop-up Restaurant,Vegetarian / Vegan Restaurant,,29.977503801453743,-90.09059573052008,4eb5e27b29c212fb6c9ebec5,7.7,0
+B. W. Cooper,Couvillion's Restaurant,,,29.956744,-90.09117,4b9150e1f964a5207ab233e3,7.7,0
+Fairgrounds,Michaels BBQ and Seafood Restaurant,BBQ Joint,1845 Gentilly Blvd,29.986405,-90.076154,4f32495019836c91c7c8bcc9,7.7,0
+Fairgrounds,Zell's Restaurant,Southern / Soul Food Restaurant,1839 Gentilly Blvd,29.993877865774394,-90.0764218293072,55958db1498ee5247e112803,7.7,0
+Gert Town,Bar and Restaurant Artelatino,Mexican Restaurant,3502 Tulane Ave,29.965878,-90.099594,4f325b8619836c91c7cfd9b5,7.7,0
+Mid-City,Katies restaurant,Cajun / Creole Restaurant,3701 Iberville St,29.973311,-90.095932,5816500238fa794b885fcb12,7.7,1
+Mid-City,Christians Restaurant,Food,3835 Iberville St,29.973561,-90.096845,4f3283ca19836c91c7df48a3,7.7,0
+Mid-City,Redemption Restaurant,French Restaurant,3835 Iberville St,29.974112971821135,-90.09756629359411,4d12375712916dcb7633d48a,6.8,5
+Seventh Ward,Red Apple Chinese Restaurant,Chinese Restaurant,2201 Saint Bernard Ave,29.978946,-90.069153,4f435aac19834bc91f5631d7,6.8,1
+Seventh Ward,C J's Bar and Restaurant,Food,1939 Lapeyrouse St,29.974923,-90.068904,4f322e4e19836c91c7be19ea,6.8,0
+Seventh Ward,Mule's Restaurant and Bar,Food,1701 Laharpe St,29.97311,-90.068215,4f32947319836c91c7e5a421,6.8,0
+St. Bernard Projects,McKenzie's Tastee Restaurant,Donut Shop,901 Harrison Ave,30.00460439275072,-90.10358795330917,4bf54e08ff90c9b6912d5628,7.1,11
+Treme,Paulie's Restaurant & Pub,Bar,810 N Claiborne Ave,29.964810873490528,-90.07223363449506,52065e6911d25caf40c0ea40,7.1,3
+City Park,Tastee Restaurant,Donut Shop,Harrison Avenue,30.004569,-90.10371,52fa910211d2254ba2f92c02,7.1,1
+City Park,R & O's Restaurant and Catering,Pizza Place,216 Metairie Hammond Hwy,30.019718912437124,-90.12392478825778,4bf7260c5ec320a1c68886d3,8.3,73
+City Park,Barataria Restaurant,Food,900 Harrison Ave,30.004222,-90.103775,4f44299b19836ed00192a2ec,8.3,0
+Lakeshore/Late Vista,Felix’s Restaurant & Oyster Bar,Seafood Restaurant,7400 Lakeshore Dr,30.023671,-90.113761,5c5765ca42d8c2002c1bdd43,8.3,3
+Lakeshore/Late Vista,Hong Kong Restaurant,Chinese Restaurant,7400 Lakeshore Dr,30.023259,-90.113451,4f32659419836c91c7d3c20a,8.3,0
+Lakewood,Cyrus Restaurant,Mediterranean Restaurant,612 Veterans Memorial Blvd,30.001158047106713,-90.129223968783,4dde8bc252b155583e048fe1,8.3,0
+Navarre,Caire Hotel and Restaurant Supply,Miscellaneous Shop,433 N Bernadotte St,29.982256021683874,-90.10585340736237,4b4fc120f964a520231427e3,8.3,4
+West End,Dragon House Chinese Restaurant,Food,1712 Lake Ave,30.018621,-90.123177,4f321db919836c91c7b7877a,8.3,0
+Dillard,Starlight Restaurant and Catering,Food,3827 Frenchmen St,29.9976,-90.06038,4f32622d19836c91c7d273d1,8.3,0
+Dillard,Elisabeth's Restaurant,Cajun / Creole Restaurant,601 Gallier St,30.00749065473706,-90.05908348222313,50e7897fe4b002f990060d26,8.3,3
+Gentilly Terrace,Avenue Bar & Restaurant,Bar,1939 Franklin Ave,29.978169189786875,-90.04816721675739,41326e00f964a52040181fe3,7.6,9
+Gentilly Woods,Maloney's Restaurant,Sports Bar,5000 Old Gentilly Rd,30.0051,-90.033096,4f32bdf619836c91c7f58486,7.6,0
+Gentilly Woods,Shajollies Restaurant By Juanita,Restaurant,5000 Old Gentilly Rd,30.004735946655273,-90.0322036743164,52ddbba4498ea48d60550e5f,7.6,0
+Gentilly Woods,Patio Restaurant,Southern / Soul Food Restaurant,5540 Crowder Blvd,30.02617,-89.991314,4e71f72dae6067986eb19715,7.6,0
+Gentilly Woods,Ba Mien Family Restaurant,Vietnamese Restaurant,13235 Chef Menteur Hwy,30.031479935378794,-89.9287881408243,4b46277ff964a520581826e3,7.5,8
+Gentilly Woods,M&J Soul Food Restaurant,Southern / Soul Food Restaurant,9301 Lake Forest Blvd Ste 107,30.029531211939478,-89.9821394356124,4eb2fa2c9a5254768678dd87,7.5,1
+Lake Terrace/Lake Oaks,"The University of New Orleans Hotel, Restaurant & Tourism Administration",Tourist Information Center,2000 Lakeshore Dr,30.03148269825673,-90.06726980209349,565a5ec3498e3f29229a8c9c,7.5,0
+Lake Terrace/Lake Oaks,Sassafras Restaurant,Cajun / Creole Restaurant,2501 Leon C. Simon,30.02641852866289,-90.05456902928242,4e41788bb61cdcbed36013d1,8.6,20
+Lake Terrace/Lake Oaks,Sassafras Restaurant,Restaurant,6600 Franklin Ave Ste B4,30.026355316095565,-90.05229234695435,52e397aa11d2a3c6de1851df,8.6,0
+Pontchartain Park,NOLA Restaurant Supply & Design,Business Service,234 Harbor Cir,30.029597115723462,-90.0325620174408,581b03cb8fada32445483bf1,8.6,0
+Pontchartain Park,Golden China Restaurant,Chinese Restaurant,7136 Downman Rd,30.0245,-90.023804,4f32208f19836c91c7b8b7dd,8.6,0
+Bywater,Two Sistets Restaurant,Cajun / Creole Restaurant,,29.96409025,-90.043633,4d48965e2165721e52b6c8d7,8.6,0
+Bywater,One Stone Restaurant,Coffee Shop,323 Verret St,29.952617,-90.051255,59b6b844898bdc4e5f32e2c4,8.6,2
+Bywater,Silk Road Restaurant & Wine Bar,Asian Restaurant,2483 Royal Street,29.964924298082913,-90.0518408340426,53cd6d43498e0f2459aaed46,7.8,20
+Bywater,Elizabeth's,Southern / Soul Food Restaurant,601 Gallier St,29.961583675644274,-90.04102638023322,4ad4c04bf964a520e2f220e3,8.8,354
+Bywater,Mandich Restaurant and Bar,Food,3200 Saint Claude Ave,29.9671,-90.042297,4f3242a819836c91c7c60cdf,8.8,0
+Bywater,Griffin-Sip Family and Friends Restaurant,Food,4017 Saint Claude Ave,29.96571,-90.03512,4f32254e19836c91c7baa38d,8.8,0
+Faubourg Marigny,Alfredo's Restaurant,Italian Restaurant,,29.963846841093048,-90.05776552253914,4df2b1bc1f6e818dadfe51a9,8.8,0
+Faubourg Marigny,13 Bar & Restaurant,Bar,517 Frenchmen St,29.962967561378665,-90.05769185073174,42bc9e80f964a520a3251fe3,7.0,91
+Faubourg Marigny,201 Restaurant & Bar,Bar,201 Decatur St,29.963864,-90.057934,4ad4c04bf964a520caf220e3,7.0,0
+Faubourg Marigny,Marisol Restaurant,Food,421 Frenchmen St,29.962291,-90.05756,4f43f00519836ed00191513a,7.0,0
+Florida Area,Shanghai Restaurant,Shanghai Restaurant,1928 Franklin Ave,29.977478,-90.04839,4f32441019836c91c7c69db7,7.0,0
+St. Claude,Poke-Chan Restaurant,Restaurant,2809 Saint Claude Ave,29.968696,-90.047854,5a3b23ead69ed07ce3e8956d,7.0,1
+Little Woods,Sclafani's Restaurant,Food,9900 Hayne Blvd,30.048989,-89.984758,4f32267119836c91c7bb16ad,7.0,0
+Little Woods,Lamars Creole Restaurant,Food,10100 I 10 Service Rd,30.038411,-89.972726,4f32788619836c91c7daff58,7.0,0
+Little Woods,Tastee Restaurant,Food,5801 Read Blvd,30.03397,-89.973686,4f320d2019833175d60ba79c,7.0,0
+Little Woods,Riverfornt Restaurant,Cajun / Creole Restaurant,,30.045652389526367,-89.9622802734375,4ed9756f0e011b46ed48cf60,7.0,0
+Little Woods,Sassafras Creole and Seafood Restaurant,Seafood Restaurant,11999 I 10 Service Rd,30.046674,-89.962338,4f3267e019836c91c7d4a496,7.0,0
+Little Woods,Shoney's Restaurant,Food,12000 I 10 Service Rd,30.046678,-89.962334,4f323f7b19836c91c7c4ce30,7.0,0
+Little Woods,Stella's Family Restaurant,Food,8700 Lake Forest Blvd,30.027989,-89.988752,4f44ab0e19836ed00195afdc,7.0,0
+Pines Village,Gabby's Restaurant & Lounge,Lounge,6600 Morrison Rd,30.027795206563837,-90.01513776976697,41326e00f964a52026191fe3,8.5,12
+Pines Village,Causey's Country Kitchen Restaurant,Food,7245 Chef Menteur Hwy,30.011909,-90.00374,4f452cf019836ed0019915c9,8.5,0
+West Lake Forest,Red Pearl Restaurant,Asian Restaurant,1402 E Judge Perez Dr,29.93750938333333,-89.95038341666667,4bfd60ac4cf820a14061ecf4,8.5,0
+Village de L'Est,Restaurant Depot,Grocery Store,,30.097389245692465,-89.90399983544721,4f9c196be4b04dd73547482e,8.5,0
+Village de L'Est,Michael's Restaurant & Lounge,American Restaurant,4820 Pontchatrain,30.22296,-89.81793296,4b96cc2af964a52041e534e3,8.5,1
+Village de L'Est,BJ's Restaurant & Brewhouse,American Restaurant,140 Town Center Parkway,30.270289057479943,-89.75871454555003,54d40e86498e653d2ab5a00b,8.5,33
+Michoud,Vucinovich's Restaurant,Cajun / Creole Restaurant,4510 Michoud Blvd,30.030016852449037,-89.9277817623372,4ae0c404f964a520448221e3,7.9,9
+Michoud,Gia Long Restaurant,Food,4655 Michoud Blvd,30.032203,-89.928121,4f322dcd19836c91c7bdebcc,7.9,0
+Michoud,Anh Hong Restaurant,Food,4661 Alcee Fortier Blvd,30.036925,-89.911618,4f3244d919836c91c7c6f02e,7.9,0
+Michoud,Kim Anh Restaurant,Food,4952 Bullard Ave,30.028296,-89.948155,4f43e04c19836ed001910851,7.9,0
+Michoud,Palace Restaurant,Casino,12170 Old Gentilly Rd,30.0131,-89.946098,4f32bf0f19836c91c7f5fef2,7.9,0
+Michoud,Stans Restaurant,Food,15200 Chef Menteur Hwy,30.041326,-89.897117,4f32845519836c91c7df7e8f,7.9,0
+Venetian Isles,Paradise Restaurant,Food,2101 Paris Rd,29.9853,-89.944702,4f32056e19833175d60a792e,7.9,0
+Lake Catherine,Joe's Restaurant,Italian Restaurant,300 Oak Harbor Blvd,30.231421377766264,-89.77620314171737,5504d16c498e367199f1ca58,7.9,7
+Lake Catherine,Nathan's Restaurant,Seafood Restaurant,36440 Old Bayou Liberty Rd,30.271666670008365,-89.79436197515533,4c21621211de20a1e15283ce,8.2,11
+Aurora,Zydeco's Cajun Restaurant,Seafood Restaurant,7010 Highway 23,29.87789934168392,-90.01725038344274,4bf85dff4a67c928f94d25cf,7.9,31
+Aurora,Kim Vans Restaurant,Chinese Restaurant,3439 Kabel Dr,29.919233,-90.00834,4f323b5519836c91c7c32793,7.9,0
+Aurora,Lil G's Restaurant,Seafood Restaurant,9338 Highway 23,29.832713079439234,-90.00330416231704,4c3df40fea36ef3b325e7285,7.3,9
+Aurora,China House Restaurant,Chinese Restaurant,3600 General Degaulle Dr,29.925576387092903,-90.02005186481396,4d02cf11a26854812e0baebd,7.3,2
+McDonogh,Seersucker Restaurant & Catering,Sandwich Place,938 Hancock St,29.929609,-90.048205,56d08e16498e3a0cb827c40a,7.3,0
+McDonogh,King's Jr. Restaurant (Inside Bingo Hall),American Restaurant,,29.920281,-90.048566,529e8bdd11d29fc4794ec034,7.3,0
+McDonogh,King's Jr. Restaurant,American Restaurant,,29.920066,-90.048753,529e8b8811d252f16136d1de,7.3,0
+McDonogh,Braxton Restaurant& Lounge,Restaurant,636 Franklin Ave,29.932718539903068,-90.0496581023766,4dd98f2b45ddced820bb3a7c,7.3,0
+McDonogh,Red Maple Restaurant,Cajun / Creole Restaurant,1036 Lafayette St,29.911710581890485,-90.0583606260239,4af06e92f964a520f8db21e3,7.6,14
+Brechtel Park,Best Wok Chinese Restaurant,Chinese Restaurant,601 Behrman Hwy,29.901469394014168,-90.01857124266347,4b81e5cdf964a5201dc330e3,7.6,0
+Brechtel Park,DiMartino's Restaurant,Restaurant,3900 General Degaulle Dr,29.922765404973713,-90.01621736301405,4b5cad92f964a520f13d29e3,7.3,9
+New Aurora,Charlie's Restaurant,Cajun / Creole Restaurant,6129 E. St. Bernard Hwy.,29.900476579143234,-89.90179018309944,4b91413bf964a52089ad33e3,7.8,16
+New Aurora,Herby K's Fishing Camp Restaurant,Food,2000 E Judge Perez Dr,29.937573,-89.944581,4f32633819836c91c7d2dbe9,7.8,0
